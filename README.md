@@ -15,4 +15,4 @@
 
 ## How to Reach Me
 - Email: murigigitahi@gmail.com
-- LinkedIn: linkedin.com/in/jake-murigi-265886415
+- LinkedIn: www.linkedin.com/in/jakemurigi
