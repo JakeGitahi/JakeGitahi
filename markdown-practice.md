@@ -3,13 +3,13 @@
 I want to become more confident in **programming**, improve my *problem solving skills*, and learn how to use `git commit` properly,
 ---
 ## Useful links
--[My Github profile](https://github.com/jakegitahi)
--[My linkedin profile](www.linkedin.com/in/jakemurigi)
+- [My Github profile](https://github.com/jakegitahi)
+- [My linkedin profile](www.linkedin.com/in/jakemurigi)
 ---
 ## Things I want to learn
--Full-stack web development
--Data analysis
--python programming
+- Full-stack web development
+- Data analysis
+- python programming
 ---
 ## Steps to make a commit in Git
 1. Check your changes using `git status`
@@ -38,7 +38,7 @@ print("Hello, world!)
 ## About Me 
 Hi, I am **Jake Gitahi**
 I am currently learning *programming* at IYF while also pursuing ACCA studies. My interests include:
-- software development
+- Software development
 - Finance and technology
 - Data analysis
 ###Current Goals
