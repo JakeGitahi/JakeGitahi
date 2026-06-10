@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Jake Gitahi
 
-<!--
-**JakeGitahi/JakeGitahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I'm currently learning Programming at IYF while pursuing the ACCA qualification and the University of London BSc programme.
+- I'm interested in software development, data analysis, finance, and technology.
+- I'm looking to collaborate on beginner-friendly open source projects and programming practice projects.
 
-Here are some ideas to get you started:
+## Skills I'm Building
+- Git and GitHub
+- HTML/CSS
+- JavaScript
+- Node.js
+- Fullstack development
+- Data analysis fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## How to Reach Me
+- Email: murigigitahi@gmail.com
+- LinkedIn: linkedin.com/in/jake-murigi-265886415
